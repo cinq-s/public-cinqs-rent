@@ -12675,7 +12675,7 @@ ul.actions-content li .inner-ul .control-group .btn-submit-wrapper {
 }
 
 .page-bottom-rent .driver-bottom {
-  border-top: 1px solid #e2e2e2;
+  /*border-top: 1px solid #e2e2e2;*/
   margin: 0 auto;
   padding: 100px 0;
   width: 100%
